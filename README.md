@@ -1,5 +1,6 @@
 This repo contains two file of python
-In Assignment 1 The program is a simple calculator that takes two numbers as input and performs the following operations:
+In Assignment 1
+The program is a simple calculator that takes two numbers as input and performs the following operations:
 Addition
 Subtraction
 Multiplication
